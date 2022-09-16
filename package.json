@@ -1,5 +1,5 @@
 {
-  "name": "first-ui-component",
+  "name": "faisal-test-ui",
   "version": "0.0.1",
   "description": "",
   "main": "dist/cjs/index.js",
@@ -10,7 +10,7 @@
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook"
   },
-  "author": "sasaki-katsuharu",
+  "author": "faisal al isfahani",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.16.5",
